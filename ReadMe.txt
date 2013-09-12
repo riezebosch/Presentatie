@@ -1,5 +1,1 @@
-Het opvragen van de inhoud van bestanden in de objects directory kan
-met "git cat-file -p <sha1>" waarbij <sha1> de hash is waarmee Git
-het bestand identificeert.
-
-Ga door naar de vorige versie.
+Hoe je aan het wachtwoord komt van het archief kun je lezen in de vorige versie van deze ReadMe.
