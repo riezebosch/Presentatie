@@ -1,0 +1,1 @@
+Het wachtwoord van het archief is de SHA1 hash van deze ReadMe.
